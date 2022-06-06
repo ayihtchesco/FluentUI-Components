@@ -1,12 +1,27 @@
 # FluentUI-Components
 
-This controls are only used in PowerApps.
-You can also try your hands on it, edit or give me any feedback
+Summary
+--------
+These controls are beautiful UI design made to change the look of your powerapps. Only used in PowerApps.  
+You can also try your hands on them, edit or give me any feedback.
+
 
 Included are 3 components:
-•	Textinput
-•	Dropdown
-•	CheckBox
+-----------
+* Textinput
+* Dropdown
+* CheckBox
+
+Components Description
+----------------
+| Control | Description |
+| --- | --- |
+| Textinput | This fluent UI design make the control look more attractive than the standard one, easy to edit |
+| Dropdown | Beautiful dropdown design made of textinput and gallery, easy to edit |
+| CheckBox | Simple check box, easy to edit |
+
+ScreenShoots
+-------------
 
 1.	Textinput label
 
