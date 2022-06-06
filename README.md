@@ -2,7 +2,7 @@
 
 Summary
 --------
-These controls are beautiful UI design made to change the look of your powerapps. Only used in PowerApps.  
+These controls are beautiful UI design made to change the look of your powerapps. Only used in PowerApps. YOu can also enable option to make the control or field required.  
 You can also try your hands on them, edit or give me any feedback.
 
 
